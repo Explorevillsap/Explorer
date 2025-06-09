@@ -1,5 +1,6 @@
 # Explorer
 <html>
   <head> JAMUHAI </head>
-  <body> Jamuhai is a local village in junpur district.</body>
+  <p> 1 </p>
+  <body> Jamuhai is a local village in jaunpur district.</body>
 </html>
